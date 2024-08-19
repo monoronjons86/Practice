@@ -1,8 +1,9 @@
+import Products from "../Products/Products";
 
 const Home = () => {
     return (
         <div>
-            <h3>oreeeeee</h3>
+            <Products></Products>
         </div>
     );
 };
